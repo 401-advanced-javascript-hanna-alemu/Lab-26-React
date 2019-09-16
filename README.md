@@ -3,7 +3,7 @@
 ### Author: Hanna Alemu
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/401-advanced-javascript-hanna-alemu/Lab-26-React/pull/1)
 * [Code Sandbox](https://codesandbox.io/s/hanna-lab-26-react-8i4u7)
 
   
